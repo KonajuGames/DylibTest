@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DylibTest", "DylibTest\DylibTest.csproj", "{1864AE78-D721-44F2-9870-264F656BFD29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DylibLibrary", "DylibLibrary\DylibLibrary.csproj", "{D2E9A6D3-4DDF-4D3E-94AD-8A16BF1033BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1864AE78-D721-44F2-9870-264F656BFD29}.Debug|x86.ActiveCfg = Debug|x86
+		{1864AE78-D721-44F2-9870-264F656BFD29}.Debug|x86.Build.0 = Debug|x86
+		{1864AE78-D721-44F2-9870-264F656BFD29}.Release|x86.ActiveCfg = Release|x86
+		{1864AE78-D721-44F2-9870-264F656BFD29}.Release|x86.Build.0 = Release|x86
+		{D2E9A6D3-4DDF-4D3E-94AD-8A16BF1033BF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D2E9A6D3-4DDF-4D3E-94AD-8A16BF1033BF}.Debug|x86.Build.0 = Debug|Any CPU
+		{D2E9A6D3-4DDF-4D3E-94AD-8A16BF1033BF}.Release|x86.ActiveCfg = Release|Any CPU
+		{D2E9A6D3-4DDF-4D3E-94AD-8A16BF1033BF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
