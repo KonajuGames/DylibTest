@@ -81,5 +81,11 @@
   <ItemGroup>
     <InterfaceDefinition Include="Main.storyboard" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DylibLibrary\DylibLibrary.csproj">
+      <Project>{D2E9A6D3-4DDF-4D3E-94AD-8A16BF1033BF}</Project>
+      <Name>DylibLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Mac\Xamarin.Mac.CSharp.targets" />
 </Project>
